@@ -1,2 +1,2 @@
 # Bootstrap-project
-Верстка небольшого проекта на Bootstrap
+Верстка небольшого проекта с помощью Bootstrap
